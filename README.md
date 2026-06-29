@@ -1,10 +1,10 @@
 # Super Mario Bros Reinforcement Learning Agent
 
-**Version:** 1.0
-**Author:** Wael Nawara
-**Framework:** Deep Q-Network (DQN) using PyTorch
-**Environment:** Super Mario Bros (NES) via Gym Super Mario Bros
-
+**Version:** 1.0  
+**Author:** Wael Nawara  
+**Framework:** Deep Q-Network (DQN) using PyTorch  
+**Environment:** Super Mario Bros (NES) via Gym Super Mario Bros  
+**Disclosure:** Gen AI (ChatGPT / Gemini etc.) were used in creating, debugging and improving many of the files as well as the documentation - so you may still find some bugs  or inconsistencies here and there - but I ran the code several times to remove as many bugs as I could.
 ---
 
 # Project Overview
